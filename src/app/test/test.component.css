@@ -1,0 +1,7 @@
+div{
+  margin: 50px;
+}
+
+div ::ng-deep .mat-form-field-infix {
+  display: flex;
+}
